@@ -1,3 +1,7 @@
+# Live Project Link
+Deployed with ❤️ on Heroku!
+https://angular-firebase-employee-app.herokuapp.com/
+
 # AngularFirebaseApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
